@@ -6,3 +6,5 @@ function calcFactorial(n: number) : void {
     console.log(`Factorial of ${n} = ${fact}`);
 }
 calcFactorial(4);
+calcFactorial(7);
+
